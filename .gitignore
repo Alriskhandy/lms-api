@@ -1,0 +1,16 @@
+# Binaries
+/bin/
+/build/
+
+# Go
+*.exe
+*.test
+/vendor/
+
+# Environment
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.swp
